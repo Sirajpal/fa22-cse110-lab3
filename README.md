@@ -1,2 +1,2 @@
-# Lab 2 - Siya Rajpal
-https://sirajpal.github.io/Lab2_Starter/
+# Lab 3 - Siya Rajpal
+https://sirajpal.github.io/fa22-cse110-lab3/
